@@ -1,2 +1,2 @@
 chia-blockchain~=1.2.11
-sanic~=21.12.1
+sanic~=22.3.2
