@@ -1,2 +1,2 @@
-chia-blockchain~=1.2.11
+chia-blockchain~=1.6.1
 sanic~=21.12.1
